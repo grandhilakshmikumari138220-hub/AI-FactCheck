@@ -1,0 +1,6 @@
+{
+  "name": "AI FactCheck — Smart Information Verification Platform",
+  "description": "An automated claims analysis and prompt engineering verification platform designed for responsible AI evaluation and source-checking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
